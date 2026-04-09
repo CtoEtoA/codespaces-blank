@@ -1,6 +1,12 @@
-# Simple Java Scanner Program
+# Simple Student Housing Algorithm
 
-This program reads a line of input from the terminal using `Scanner(System.in)` and prints it back.
+This program demonstrates how a simple student housing point system works.
+ 
+It first informs the user how this program works,
+then prompts the user to answer various questions. 
+ 
+After each question is answered, the program will keep track of points.
+After completing all questions, the program will output the total score.
 
 ## Usage
 
@@ -19,9 +25,11 @@ This program reads a line of input from the terminal using `Scanner(System.in)` 
 ## Example
 
 ```
-Enter something:
-Hello, World!
-You entered: Hello, World!
+Thank you for applying for student housing!
+This program will ask you various questions to determine your eligibility for housing.
+Please answer each question honestly. (Type 'yes' to continue or 'no' to quit.)
+no
+Thank you for your time. Goodbye!
 ```
 
 ## Troubleshooting
