@@ -1,4 +1,5 @@
 # Simple Student Housing Algorithm
+This program was created for CS 3090 - Ethics in Comptuing, for the University of Utah, Spring 2026.
 
 This program demonstrates how a simple student housing point system works.
  
