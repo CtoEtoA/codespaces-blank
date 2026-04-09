@@ -9,7 +9,10 @@ After each question is answered, the program will keep track of points.
 After completing all questions, the program will output the total score.
 
 ## Usage
+### Easiest Way
+1. Run the .jar file in a Java Runtime Environment (JRE) or JDK
 
+### Other Way
 1. Compile the program:
    ```
    javac Main.java
@@ -35,4 +38,3 @@ Thank you for your time. Goodbye!
 ## Troubleshooting
 
 - Ensure you have Java installed (`java -version`).
-- If compilation fails, check for syntax errors in `Main.java`.
